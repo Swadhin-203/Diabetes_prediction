@@ -10,8 +10,9 @@
 <body>
 
   <div class="login">
-    <h1>Diabetes Prediction</h1>
+   
       <form action="{{ url_for('predict_datapoint')}}" method="post">
+        <h1>Diabetes Prediction</h1>
         <input type="text" name="Pregnancies" placeholder="Pregnancies" required="required" /><br>
         <input type="text" name="Glucose" placeholder="Glucose" required="required" /><br>
           <input type="text" name="BloodPressure" placeholder="BloodPressure" required="required" /><br>
@@ -23,13 +24,13 @@
   
   
           <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+   <h1 style="color: red;">Person is: {{result}}</h1>
+
       </form>
   
      <br>
      <br>
   
    </div>
- {{result}}
-
 </body>
 </html>
