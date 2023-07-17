@@ -2,9 +2,9 @@
 This is a Machine Learning Project Which is based on Logistic Regression by ,which you can predict a person is Diabetic or Not.
 This is my Second Project with the Diabetes Data set. In this project user can see whethere he/she is affected by diabetes or not , just by providing providing 
 some information regarding his/her health parameters.
-A diabetes prediction machine learning project aims to develop a model that can predict the likelihood of an individual developing diabetes based on certain features or risk factors. Machine learning algorithms can be trained on historical data of patients, including both those with and without diabetes, to learn patterns and relationships that may indicate the potential risk of diabetes for future individuals.
+This machine learning project aims to develop a model that can predict the likelihood of an individual developing diabetes based on certain features or risk factors. Machine learning algorithms can be trained on historical data of patients, including both those with and without diabetes, to learn patterns and relationships that may indicate the potential risk of diabetes for future individuals.
 
-Here's an outline of the steps involved in a diabetes prediction machine learning project:
+Here's an outline of the steps involved in this machine learning project:
 
 1. Data Collection: The first step is to gather a suitable dataset containing relevant features and labels. Features may include age, BMI, blood pressure, glucose levels, family history, lifestyle factors, etc. The labels indicate whether the individual has diabetes (positive class) or does not have diabetes (negative class).
 
