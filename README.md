@@ -22,4 +22,3 @@ Here's an outline of the steps involved in a diabetes prediction machine learnin
 
 8. Deployment: Once the model is trained and evaluated, it can be deployed to make predictions on new data. This could be in the form of a web application, API, or integration into an existing healthcare system.
 
-It's crucial to remember that medical projects, especially those involving patient data, must adhere to ethical guidelines and privacy regulations. Proper consent and anonymization procedures should be followed when using medical datasets for machine learning projects. Additionally, the predictions made by the model should be interpreted by healthcare professionals, and the model should not replace proper medical diagnosis or treatment.
